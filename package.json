@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/santi440/mw-gh-npm-demo/issues"
   },
-  "homepage": "https://github.com/santi440/mw-gh-npm-demo#readme"
+  "homepage": "https://github.com/santi440/mw-gh-npm-demo#readme",
+  "publishConfig": {
+    "@santi440:registry": "https://npm.pkg.github.com"
+  }
 }
